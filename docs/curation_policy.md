@@ -10,13 +10,14 @@
 
 Each row must use:
 
-`Title | Venue | Date | Paper | Project | Citations | Tags`
+`Title | Venue | Date | Paper | Project | Code | Citations | Tags`
 
 Rules:
 
 - `Date` format: `YYYY-MM`.
 - `Paper` format: one primary link only (`Published` preferred, otherwise `arXiv`; use `-` if unavailable).
-- `Project`: project pages, repository links, or demos; use `-` if unavailable.
+- `Project`: project pages, demos, or homepages; use `-` if unavailable.
+- `Code`: verified GitHub repository; use `-` if unavailable.
 - `Citations`: badge style `citation-N` when available; otherwise use `-`.
 - `Tags`: concise topic tags.
 

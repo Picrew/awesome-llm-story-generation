@@ -11,12 +11,13 @@
 
 - `Paper.Published`: official venue page when available (ACL Anthology, OpenReview, journal page).
 - `Paper.arXiv`: canonical `https://arxiv.org/abs/<id>` link.
-- `Project`: project/demo site or repository link when present.
+- `Project`: project/demo site when present.
+- `Code`: verified GitHub repository link when present.
 - `Citations`: citation badge based on curated counts from trusted sources.
 
 ## Verification Workflow
 
 1. Check schema and field completeness for both README files.
 2. Check date format, duplicate titles, and descending order in each category.
-3. Verify URL reachability for Paper and Project links.
+3. Verify URL reachability for Paper, Project, and Code links.
 4. Keep `README.md` and `README_zh.md` mirrored in structure and row order.
