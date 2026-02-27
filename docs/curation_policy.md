@@ -15,7 +15,7 @@ Each row must use:
 Rules:
 
 - `Date` format: `YYYY-MM`.
-- `Paper` format: `Published / arXiv` (use `-` if unavailable).
+- `Paper` format: one primary link only (`Published` preferred, otherwise `arXiv`; use `-` if unavailable).
 - `Project`: project pages, repository links, or demos; use `-` if unavailable.
 - `Citations`: badge style `citation-N` when available; otherwise use `-`.
 - `Tags`: concise topic tags.
