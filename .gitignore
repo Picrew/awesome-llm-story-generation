@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Local temp/cache
+*.log
+*.tmp
+*.swp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore source code files for this markdown-first repository
+*.py
+*.ipynb
+*.sh
+*.js
+*.ts
+*.tsx
+*.go
+*.rs
+*.java
+*.c
+*.cpp
+scripts/
+
+# Local verification output
+reports/verification/*.local.md
+
