@@ -167,7 +167,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Lost in Stories: Consistency Bugs in Long Story Generation by LLMs | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.05890) | [Project](https://picrew.github.io/constory-bench.github.io/) | - | - | benchmark, evaluation |
+| Lost in Stories: Consistency Bugs in Long Story Generation by LLMs | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.05890) | [Project](https://picrew.github.io/constory-bench.github.io/) | [Code](https://github.com/Picrew/ConStory-Bench) | - | benchmark, evaluation |
 | LLMs Exhibit Significantly Lower Uncertainty in Creative Writing Than Professional Writers | ArXiv 2026 (arXiv preprint) | 2026-02 | [arXiv](https://arxiv.org/abs/2602.16162) | - | - | - | benchmark, evaluation |
 | Evaluation Framework for AI Creativity: A Case Study Based on Story Generation | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.03698) | - | - | - | benchmark, evaluation |
 | Evaluating LLM Story Generation through Large-scale Network Analysis of Social Structures | ArXiv 2025 (arXiv preprint) | 2025-10 | [arXiv](https://arxiv.org/abs/2510.18932) | - | - | - | benchmark, evaluation |
