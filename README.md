@@ -2,9 +2,9 @@
 
 A curated list of story/novel/script generation research in the LLM era (2022-present), organized by method with strict link verification.
 
-- Total entries: **132**
+- Total entries: **134**
 - Categories: **10**
-- Last verified: **2026-03-09**
+- Last verified: **2026-03-16**
 - Language: [English](./README.md) | [中文](./README_zh.md)
 
 ## Contents
@@ -34,7 +34,7 @@ A curated list of story/novel/script generation research in the LLM era (2022-pr
 | Planning / Decomposition for Story Generation | 15 |
 | Agent Collaboration for Story Writing | 4 |
 | Sandbox / World Simulation Narrative Generation | 9 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 7 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 9 |
 | Memory & Long-Context Coherence | 9 |
 | Consistency / Controllability / Constraint Following | 18 |
 | Refinement / Self-Critique / Iterative Editing | 12 |
@@ -97,6 +97,8 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| EmoStory: Emotion-Aware Story Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.10349) | - | - | - | multimodal, visual-story |
+| PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.02366) | - | - | - | multimodal, co-creation |
 | StoryComposerAI: A Multimodal Story Co-Creation Tool for Amateur Writers | CHI EA 2026 (Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems) | 2026-02 | [arXiv](https://arxiv.org/abs/2602.21486) | - | - | - | multimodal, co-creation |
 | Re:Verse -- Can Your VLM Read a Manga? | ICCV AISTORY Workshop 2025 (ICCV AISTORY Workshop) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.08508) | - | - | - | multimodal, visual-story |
 | Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation | ArXiv 2025 (arXiv preprint) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.08949) | - | - | - | multimodal, visual-story |
