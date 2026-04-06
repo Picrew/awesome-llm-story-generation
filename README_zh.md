@@ -2,9 +2,9 @@
 
 聚焦 2022 年以来的故事/小说/剧本生成研究，按方法分类，优先保证论文链接与信息准确。
 
-- 当前条目数: **138**
+- 当前条目数: **142**
 - 分类数量: **10**
-- 最近核对日期: **2026-03-27**
+- 最近核对日期: **2026-04-06**
 - 语言: [English](./README.md) | [中文](./README_zh.md)
 
 ## 目录
@@ -34,11 +34,11 @@
 | Planning / Decomposition for Story Generation | 16 |
 | Agent Collaboration for Story Writing | 4 |
 | Sandbox / World Simulation Narrative Generation | 9 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 10 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 12 |
 | Memory & Long-Context Coherence | 9 |
 | Consistency / Controllability / Constraint Following | 19 |
 | Refinement / Self-Critique / Iterative Editing | 12 |
-| Evaluation / Benchmarks / Metrics | 27 |
+| Evaluation / Benchmarks / Metrics | 29 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -98,6 +98,8 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.28082) | - | - | - | multimodal, visual-story |
+| Customized Visual Storytelling with Unified Multimodal LLMs | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.27690) | - | - | - | multimodal, visual-story |
 | Directing the Narrative: A Finetuning Method for Controlling Coherence and Style in Story Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.17295) | - | - | - | multimodal, visual-story |
 | EmoStory: Emotion-Aware Story Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.10349) | - | - | - | multimodal, visual-story |
 | PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.02366) | - | - | - | multimodal, co-creation |
@@ -172,6 +174,8 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| StoryScope: Investigating idiosyncrasies in AI fiction | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03136) | - | - | - | benchmark, evaluation |
+| Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.25537) | - | - | - | benchmark, evaluation |
 | Creative Convergence or Imitation? Genre-Specific Homogeneity in LLM-Generated Chinese Literature | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.14430) | - | - | - | benchmark, evaluation |
 | Lost in Stories: Consistency Bugs in Long Story Generation by LLMs | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.05890) | [Project](https://picrew.github.io/constory-bench.github.io/) | [Code](https://github.com/Picrew/ConStory-Bench) | - | benchmark, evaluation |
 | LLMs Exhibit Significantly Lower Uncertainty in Creative Writing Than Professional Writers | ArXiv 2026 (arXiv preprint) | 2026-02 | [arXiv](https://arxiv.org/abs/2602.16162) | - | - | - | benchmark, evaluation |
