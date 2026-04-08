@@ -2,9 +2,9 @@
 
 聚焦 2022 年以来的故事/小说/剧本生成研究，按方法分类，优先保证论文链接与信息准确。
 
-- 当前条目数: **142**
+- 当前条目数: **145**
 - 分类数量: **10**
-- 最近核对日期: **2026-04-06**
+- 最近核对日期: **2026-04-08**
 - 语言: [English](./README.md) | [中文](./README_zh.md)
 
 ## 目录
@@ -36,9 +36,9 @@
 | Sandbox / World Simulation Narrative Generation | 9 |
 | Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 12 |
 | Memory & Long-Context Coherence | 9 |
-| Consistency / Controllability / Constraint Following | 19 |
-| Refinement / Self-Critique / Iterative Editing | 12 |
-| Evaluation / Benchmarks / Metrics | 29 |
+| Consistency / Controllability / Constraint Following | 20 |
+| Refinement / Self-Critique / Iterative Editing | 13 |
+| Evaluation / Benchmarks / Metrics | 30 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -131,6 +131,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Noise Steering for Controlled Text Generation: Improving Diversity and Reading-Level Fidelity in Arabic Educational Story Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03380) | - | - | - | controllability, consistency |
 | Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.13683) | - | - | - | controllability, consistency |
 | TaleFrame: An Interactive Story Generation System with Fine-Grained Control and Large Language Models | ArXiv 2025 (arXiv preprint) | 2025-12 | [arXiv](https://arxiv.org/abs/2512.02402) | - | - | - | controllability, interactive |
 | SCORE: Story Coherence and Retrieval Enhancement for AI Narratives | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.23512) | - | - | ![citation](https://img.shields.io/badge/citation-17-0A66C2) | controllability, retrieval |
@@ -156,6 +157,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03004) | - | - | - | refinement, revision |
 | LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.08003) | - | - | - | refinement, revision |
 | All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation | ArXiv 2025 (arXiv preprint) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.02132) | - | - | - | refinement, revision |
 | SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models | ArXiv 2025 (arXiv preprint) | 2025-06 | [arXiv](https://arxiv.org/abs/2506.04180) | - | - | - | refinement, revision |
@@ -174,6 +176,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.06071) | - | - | - | benchmark, evaluation |
 | StoryScope: Investigating idiosyncrasies in AI fiction | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03136) | - | - | - | benchmark, evaluation |
 | Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.25537) | - | - | - | benchmark, evaluation |
 | Creative Convergence or Imitation? Genre-Specific Homogeneity in LLM-Generated Chinese Literature | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.14430) | - | - | - | benchmark, evaluation |
