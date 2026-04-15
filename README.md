@@ -2,9 +2,9 @@
 
 A curated list of story/novel/script generation research in the LLM era (2022-present), organized by method with strict link verification.
 
-- Total entries: **145**
+- Total entries: **153**
 - Categories: **10**
-- Last verified: **2026-04-08**
+- Last verified: **2026-04-15**
 - Language: [English](./README.md) | [中文](./README_zh.md)
 
 ## Contents
@@ -31,14 +31,14 @@ A curated list of story/novel/script generation research in the LLM era (2022-pr
 
 | Category | Entries |
 | --- | ---: |
-| Planning / Decomposition for Story Generation | 16 |
-| Agent Collaboration for Story Writing | 4 |
-| Sandbox / World Simulation Narrative Generation | 9 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 12 |
-| Memory & Long-Context Coherence | 9 |
+| Planning / Decomposition for Story Generation | 17 |
+| Agent Collaboration for Story Writing | 5 |
+| Sandbox / World Simulation Narrative Generation | 10 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 14 |
+| Memory & Long-Context Coherence | 10 |
 | Consistency / Controllability / Constraint Following | 20 |
 | Refinement / Self-Critique / Iterative Editing | 13 |
-| Evaluation / Benchmarks / Metrics | 30 |
+| Evaluation / Benchmarks / Metrics | 32 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -51,6 +51,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Narrix: Remixing Narrative Strategies from Examples for Story Writing | CHI 2026 (Conference on Human Factors in Computing Systems) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.07643) | - | - | - | planning, narrative-structure |
 | BiT-MCTS: A Theme-based Bidirectional MCTS Approach to Chinese Fiction Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.14410) | - | - | - | planning, narrative-structure |
 | DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.09609) | - | - | - | planning, narrative-structure |
 | Codified Foreshadowing-Payoff Text Generation | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.07033) | - | - | - | planning, narrative-structure |
@@ -73,6 +74,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games | ACL Findings 2026 (Findings of ACL) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11741) | - | - | - | multi-agent, collaboration |
 | A Cognitive Writing Perspective for Constrained Long-Form Text Generation | ArXiv 2025 (arXiv preprint) | 2025-02 | [arXiv](https://arxiv.org/abs/2502.12568) | - | [Code](https://github.com/KaiyangWan/CogWriter) | ![citation](https://img.shields.io/badge/citation-1-0A66C2) | multi-agent, collaboration |
 | Agents' Room: Narrative Generation through Multi-step Collaboration | ICLR 2025 (International Conference on Learning Representations) | 2024-10 | [arXiv](https://arxiv.org/abs/2410.02603) | - | - | ![citation](https://img.shields.io/badge/citation-16-0A66C2) | multi-agent, collaboration |
 | HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing | EMNLP Findings 2024 (Findings of EMNLP) | 2024-06 | [arXiv](https://arxiv.org/abs/2406.11683) | - | - | ![citation](https://img.shields.io/badge/citation-9-0A66C2) | multi-agent, collaboration |
@@ -83,6 +85,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| EvoSpark: Endogenous Interactive Agent Societies for Unified Long-Horizon Narrative Evolution | ACL 2026 (Annual Meeting of the Association for Computational Linguistics) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.12776) | - | - | - | sandbox, simulation |
 | StoryBox: Collaborative Multi-Agent Simulation for Hybrid Bottom-Up Long-Form Story Generation Using Large Language Models | ArXiv 2025 (arXiv preprint) | 2025-10 | [arXiv](https://arxiv.org/abs/2510.11618) | [Project](https://storyboxproject.github.io) | - | - | sandbox, simulation |
 | OPEN-THEATRE: An Open-Source Toolkit for LLM-based Interactive Drama | ArXiv 2025 (arXiv preprint) | 2025-09 | [arXiv](https://arxiv.org/abs/2509.16713) | - | - | - | sandbox, interactive |
 | HAMLET: Hyperadaptive Agent-based Modeling for Live Embodied Theatrics | ArXiv 2025 (arXiv preprint) | 2025-07 | [arXiv](https://arxiv.org/abs/2507.15518) | - | - | - | sandbox, simulation |
@@ -98,6 +101,8 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09195) | - | - | - | multimodal, video-story |
+| StoryBlender: Inter-Shot Consistent and Editable 3D Storyboard with Spatial-temporal Dynamics | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03315) | - | - | - | multimodal, visual-story |
 | LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.28082) | - | - | - | multimodal, visual-story |
 | Customized Visual Storytelling with Unified Multimodal LLMs | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.27690) | - | - | - | multimodal, visual-story |
 | Directing the Narrative: A Finetuning Method for Controlling Coherence and Style in Story Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.17295) | - | - | - | multimodal, visual-story |
@@ -116,6 +121,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Skeleton-based Coherence Modeling in Narratives | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.02451) | - | - | - | long-context, coherence |
 | Shifting Long-Context LLMs Research from Input to Output | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.04723) | - | - | - | long-context, coherence |
 | Language Models can Self-Lengthen to Generate Long Texts | ArXiv 2024 (arXiv preprint) | 2024-10 | [arXiv](https://arxiv.org/abs/2410.23933) | - | [Code](https://github.com/QwenLM/Self-Lengthen) | - | long-context, coherence |
 | LongGenBench: Benchmarking Long-Form Generation in Long-Context LLMs | ArXiv 2024 (arXiv preprint) | 2024-09 | [Published](https://openreview.net/forum?id=3A71qNKWAS) | - | - | - | long-context, coherence |
@@ -176,6 +182,8 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Spoiler Alert: Narrative Forecasting as a Metric for Tension in LLM Storytelling | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09854) | - | - | - | benchmark, evaluation |
+| Lessons Without Borders? Evaluating Cultural Alignment of LLMs Using Multilingual Story Moral Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.08797) | - | - | - | benchmark, evaluation |
 | Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.06071) | - | - | - | benchmark, evaluation |
 | StoryScope: Investigating idiosyncrasies in AI fiction | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03136) | - | - | - | benchmark, evaluation |
 | Humans vs Vision-Language Models: A Unified Measure of Narrative Coherence | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.25537) | - | - | - | benchmark, evaluation |
