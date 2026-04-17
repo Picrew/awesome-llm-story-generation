@@ -2,9 +2,9 @@
 
 聚焦 2022 年以来的故事/小说/剧本生成研究，按方法分类，优先保证论文链接与信息准确。
 
-- 当前条目数: **153**
+- 当前条目数: **156**
 - 分类数量: **10**
-- 最近核对日期: **2026-04-15**
+- 最近核对日期: **2026-04-17**
 - 语言: [English](./README.md) | [中文](./README_zh.md)
 
 ## 目录
@@ -34,11 +34,11 @@
 | Planning / Decomposition for Story Generation | 17 |
 | Agent Collaboration for Story Writing | 5 |
 | Sandbox / World Simulation Narrative Generation | 10 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 14 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 16 |
 | Memory & Long-Context Coherence | 10 |
 | Consistency / Controllability / Constraint Following | 20 |
 | Refinement / Self-Critique / Iterative Editing | 13 |
-| Evaluation / Benchmarks / Metrics | 32 |
+| Evaluation / Benchmarks / Metrics | 33 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -101,6 +101,8 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| CANVAS: Continuity-Aware Narratives via Visual Agentic Storyboarding | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.13452) | - | - | - | multimodal, visual-story |
+| OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11102) | - | - | - | multimodal, screenplay |
 | Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09195) | - | - | - | multimodal, video-story |
 | StoryBlender: Inter-Shot Consistent and Editable 3D Storyboard with Spatial-temporal Dynamics | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03315) | - | - | - | multimodal, visual-story |
 | LogiStory: A Logic-Aware Framework for Multi-Image Story Visualization | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.28082) | - | - | - | multimodal, visual-story |
@@ -182,6 +184,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.15127) | - | - | - | benchmark, dataset |
 | Spoiler Alert: Narrative Forecasting as a Metric for Tension in LLM Storytelling | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09854) | - | - | - | benchmark, evaluation |
 | Lessons Without Borders? Evaluating Cultural Alignment of LLMs Using Multilingual Story Moral Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.08797) | - | - | - | benchmark, evaluation |
 | Stories of Your Life as Others: A Round-Trip Evaluation of LLM-Generated Life Stories Conditioned on Rich Psychometric Profiles | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.06071) | - | - | - | benchmark, evaluation |
