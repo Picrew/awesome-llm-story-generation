@@ -2,9 +2,9 @@
 
 A curated list of story/novel/script generation research in the LLM era (2022-present), organized by method with strict link verification.
 
-- Total entries: **156**
+- Total entries: **160**
 - Categories: **10**
-- Last verified: **2026-04-17**
+- Last verified: **2026-04-20**
 - Language: [English](./README.md) | [中文](./README_zh.md)
 
 ## Contents
@@ -35,10 +35,10 @@ A curated list of story/novel/script generation research in the LLM era (2022-pr
 | Agent Collaboration for Story Writing | 5 |
 | Sandbox / World Simulation Narrative Generation | 10 |
 | Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 16 |
-| Memory & Long-Context Coherence | 10 |
-| Consistency / Controllability / Constraint Following | 20 |
+| Memory & Long-Context Coherence | 11 |
+| Consistency / Controllability / Constraint Following | 21 |
 | Refinement / Self-Critique / Iterative Editing | 13 |
-| Evaluation / Benchmarks / Metrics | 33 |
+| Evaluation / Benchmarks / Metrics | 35 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -123,6 +123,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Think Before you Write: QA-Guided Reasoning for Character Descriptions in Books | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11435) | - | - | - | long-context, coherence |
 | Skeleton-based Coherence Modeling in Narratives | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.02451) | - | - | - | long-context, coherence |
 | Shifting Long-Context LLMs Research from Input to Output | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.04723) | - | - | - | long-context, coherence |
 | Language Models can Self-Lengthen to Generate Long Texts | ArXiv 2024 (arXiv preprint) | 2024-10 | [arXiv](https://arxiv.org/abs/2410.23933) | - | [Code](https://github.com/QwenLM/Self-Lengthen) | - | long-context, coherence |
@@ -139,6 +140,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| UniCreative: Unifying Long-form Logic and Short-form Sparkle via Reference-Free Reinforcement Learning | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.05517) | - | - | - | controllability, consistency |
 | Noise Steering for Controlled Text Generation: Improving Diversity and Reading-Level Fidelity in Arabic Educational Story Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03380) | - | - | - | controllability, consistency |
 | Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.13683) | - | - | - | controllability, consistency |
 | TaleFrame: An Interactive Story Generation System with Fine-Grained Control and Large Language Models | ArXiv 2025 (arXiv preprint) | 2025-12 | [arXiv](https://arxiv.org/abs/2512.02402) | - | - | - | controllability, interactive |
@@ -184,6 +186,8 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| ATANT v1.1: Positioning Continuity Evaluation Against Memory, Long-Context, and Agentic-Memory Benchmarks | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.10981) | - | - | - | benchmark, evaluation |
+| Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.06416) | - | - | - | benchmark, dataset |
 | MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.15127) | - | - | - | benchmark, dataset |
 | Spoiler Alert: Narrative Forecasting as a Metric for Tension in LLM Storytelling | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09854) | - | - | - | benchmark, evaluation |
 | Lessons Without Borders? Evaluating Cultural Alignment of LLMs Using Multilingual Story Moral Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.08797) | - | - | - | benchmark, evaluation |
