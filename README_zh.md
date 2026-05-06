@@ -2,9 +2,9 @@
 
 聚焦 2022 年以来的故事/小说/剧本生成研究，按方法分类，优先保证论文链接与信息准确。
 
-- 当前条目数: **160**
+- 当前条目数: **165**
 - 分类数量: **10**
-- 最近核对日期: **2026-04-20**
+- 最近核对日期: **2026-05-07**
 - 语言: [English](./README.md) | [中文](./README_zh.md)
 
 ## 目录
@@ -31,14 +31,14 @@
 
 | 分类 | 条目数 |
 | --- | ---: |
-| Planning / Decomposition for Story Generation | 17 |
+| Planning / Decomposition for Story Generation | 18 |
 | Agent Collaboration for Story Writing | 5 |
 | Sandbox / World Simulation Narrative Generation | 10 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 16 |
-| Memory & Long-Context Coherence | 11 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 18 |
+| Memory & Long-Context Coherence | 12 |
 | Consistency / Controllability / Constraint Following | 21 |
 | Refinement / Self-Critique / Iterative Editing | 13 |
-| Evaluation / Benchmarks / Metrics | 35 |
+| Evaluation / Benchmarks / Metrics | 36 |
 | Datasets / Surveys / Resources | 22 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -51,6 +51,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.21253) | - | - | - | planning, narrative-structure |
 | Narrix: Remixing Narrative Strategies from Examples for Story Writing | CHI 2026 (Conference on Human Factors in Computing Systems) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.07643) | - | - | - | planning, narrative-structure |
 | BiT-MCTS: A Theme-based Bidirectional MCTS Approach to Chinese Fiction Generation | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.14410) | - | - | - | planning, narrative-structure |
 | DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.09609) | - | - | - | planning, narrative-structure |
@@ -101,6 +102,8 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Co-Director: Agentic Generative Video Storytelling | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.24842) | - | - | - | multimodal, video-story |
+| CineAGI: Character-Consistent Movie Creation through LLM-Orchestrated Multi-Modal Generation and Cross-Scene Integration | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.23579) | - | - | - | multimodal, video-story |
 | CANVAS: Continuity-Aware Narratives via Visual Agentic Storyboarding | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.13452) | - | - | - | multimodal, visual-story |
 | OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11102) | - | - | - | multimodal, screenplay |
 | Camera Artist: A Multi-Agent Framework for Cinematic Language Storytelling Video Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.09195) | - | - | - | multimodal, video-story |
@@ -123,6 +126,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| On Stable Long-Form Generation: Benchmarking and Mitigating Length Volatility | ArXiv 2026 (arXiv preprint) | 2026-05 | [arXiv](https://arxiv.org/abs/2605.01357) | - | - | - | long-context, coherence |
 | Think Before you Write: QA-Guided Reasoning for Character Descriptions in Books | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11435) | - | - | - | long-context, coherence |
 | Skeleton-based Coherence Modeling in Narratives | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.02451) | - | - | - | long-context, coherence |
 | Shifting Long-Context LLMs Research from Input to Output | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.04723) | - | - | - | long-context, coherence |
@@ -186,6 +190,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| SemEval-2026 Task 4: Narrative Story Similarity and Narrative Representation Learning | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.21782) | - | - | - | benchmark, evaluation |
 | ATANT v1.1: Positioning Continuity Evaluation Against Memory, Long-Context, and Agentic-Memory Benchmarks | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.10981) | - | - | - | benchmark, evaluation |
 | Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.06416) | - | - | - | benchmark, dataset |
 | MCSC-Bench: Multimodal Context-to-Script Creation for Realistic Video Production | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.15127) | - | - | - | benchmark, dataset |
