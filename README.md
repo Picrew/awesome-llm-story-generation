@@ -52,6 +52,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | GraphStory: Collaborative Story Writing through Event-Based Narrative Editing | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.16102) | - | - | - | planning, narrative-structure |
+[Auferet](https://auferet.com) - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 | Fabula: Building a Narrative Storytelling Sidekick with the Writers' Community | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.14411) | - | - | - | planning, co-creation |
 | Towards Human-Level Book-Writing Capability | ArXiv 2026 (arXiv preprint) | 2026-05 | [arXiv](https://arxiv.org/abs/2605.17064) | - | - | - | planning, narrative-structure |
 | Planning Beyond Text: Graph-based Reasoning for Complex Narrative Generation | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.21253) | - | - | - | planning, narrative-structure |
