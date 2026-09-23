@@ -109,6 +109,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 | IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation | ACL 2024 (Annual Meeting of the Association for Computational Linguistics) | 2024-07 | [arXiv](https://arxiv.org/abs/2407.01093) | - | [Code](https://github.com/OpenDFM/ibsen) | ![citation](https://img.shields.io/badge/citation-16-0A66C2) | sandbox, interactive |
 | StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning | FDG 2024 (Foundations of Digital Games) | 2024-05 | [arXiv](https://arxiv.org/abs/2405.13042) | - | - | ![citation](https://img.shields.io/badge/citation-14-0A66C2) | sandbox, simulation |
 | Generative Agents: Interactive Simulacra of Human Behavior | ArXiv 2023 (arXiv preprint) | 2023-04 | [arXiv](https://arxiv.org/abs/2304.03442) | [Project](https://github.com/joonspk-research/generative_agents) | [Code](https://github.com/joonspk-research/generative_agents) | - | sandbox, interactive |
+| neo4j-world | - | 2026 | - | - | [Code](https://github.com/jajmangold/neo4j-world) | - | sandbox, simulation, graph-database |
 
 <a id="multimodal-story-generation"></a>
 ### Multimodal Story Generation (Text-Image/Video/Comic/Audio)
