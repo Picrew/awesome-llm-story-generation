@@ -390,6 +390,7 @@
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| novel-agent-pipeline | GitHub 2026 (Open-source repository) | 2026-10 | - | [Project](https://github.com/jiawood2006/novel-agent-pipeline) | [Code](https://github.com/jiawood2006/novel-agent-pipeline) | - | tooling, open-source, multi-agent |
 | FireRed-OpenStoryline | GitHub 2026 (Open-source repository) | 2026-01 | - | [Project](https://github.com/FireRedTeam/FireRed-OpenStoryline) | [Code](https://github.com/FireRedTeam/FireRed-OpenStoryline) | - | tooling, open-source |
 | ReasoningNCP (Official Repository) | GitHub 2025 (Open-source repository) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.22828) | [Project](https://github.com/Alex-Gurung/ReasoningNCP) | [Code](https://github.com/Alex-Gurung/ReasoningNCP) | - | tooling, open-source |
 | SEED-Story (Official Repository) | GitHub 2024 (Open-source repository) | 2024-07 | [arXiv](https://arxiv.org/abs/2407.08683) | [Project](https://github.com/TencentARC/SEED-Story) | [Code](https://github.com/TencentARC/SEED-Story) | - | tooling, open-source |
