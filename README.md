@@ -2,9 +2,9 @@
 
 A curated list of story/novel/script generation research in the LLM era (2022-present), organized by method with strict link verification.
 
-- Total entries: **295**
+- Total entries: **302**
 - Categories: **10**
-- Last verified: **2026-09-22**
+- Last verified: **2026-10-08**
 - Language: [English](./README.md) | [中文](./README_zh.md)
 
 ## Contents
@@ -32,13 +32,13 @@ A curated list of story/novel/script generation research in the LLM era (2022-pr
 | Category | Entries |
 | --- | ---: |
 | Planning / Decomposition for Story Generation | 22 |
-| Agent Collaboration for Story Writing | 7 |
+| Agent Collaboration for Story Writing | 8 |
 | Sandbox / World Simulation Narrative Generation | 17 |
-| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 64 |
-| Memory & Long-Context Coherence | 20 |
+| Multimodal Story Generation (Text-Image/Video/Comic/Audio) | 66 |
+| Memory & Long-Context Coherence | 21 |
 | Consistency / Controllability / Constraint Following | 29 |
-| Refinement / Self-Critique / Iterative Editing | 17 |
-| Evaluation / Benchmarks / Metrics | 77 |
+| Refinement / Self-Critique / Iterative Editing | 18 |
+| Evaluation / Benchmarks / Metrics | 79 |
 | Datasets / Surveys / Resources | 32 |
 | Open-source Projects (No Paper Required) | 10 |
 
@@ -79,6 +79,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| MUSE: A Theory-Harnessed Story Engine for Vibe Narrativizing | ArXiv 2026 (arXiv preprint) | 2026-09 | [arXiv](https://arxiv.org/abs/2609.15188) | - | [Code](https://github.com/RoadtoAGI/MUSE) | - | multi-agent, collaboration |
 | From Personas to Plot: Character-Grounded Multi-Agent Story Generation for Long-Form Narratives | ArXiv 2026 (arXiv preprint) | 2026-07 | [arXiv](https://arxiv.org/abs/2607.00918) | - | - | - | multi-agent, collaboration |
 | Improving Collaborative Storytelling with a Multi-Agent Framework Based on Large Language Models | ArXiv 2026 (arXiv preprint) | 2026-05 | [arXiv](https://arxiv.org/abs/2605.29625) | - | - | - | multi-agent, collaboration |
 | Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games | ACL Findings 2026 (Findings of ACL) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.11741) | - | - | - | multi-agent, collaboration |
@@ -173,10 +174,12 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 | PlayWrite: A Multimodal System for AI Supported Narrative Co-Authoring Through Play in XR | ArXiv 2026 (arXiv preprint) | 2026-03 | [arXiv](https://arxiv.org/abs/2603.02366) | - | - | - | multimodal, co-creation |
 | StoryComposerAI: A Multimodal Story Co-Creation Tool for Amateur Writers | CHI EA 2026 (Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems) | 2026-02 | [arXiv](https://arxiv.org/abs/2602.21486) | - | - | - | multimodal, co-creation |
 | The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.17737) | - | - | - | multimodal, screenplay |
+| StoryMem: Multi-shot Long Video Storytelling with Memory | ArXiv 2025 (arXiv preprint) | 2025-12 | [arXiv](https://arxiv.org/abs/2512.19539) | [Project](https://kevin-thu.github.io/StoryMem/) | [Code](https://github.com/Kevin-thu/StoryMem) | - | multimodal, video-story |
 | Re:Verse -- Can Your VLM Read a Manga? | ICCV AISTORY Workshop 2025 (ICCV AISTORY Workshop) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.08508) | - | - | - | multimodal, visual-story |
 | Lay2Story: Extending Diffusion Transformers for Layout-Togglable Story Generation | ArXiv 2025 (arXiv preprint) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.08949) | - | - | - | multimodal, visual-story |
 | R^2: A LLM BASED NOVEL-TO-SCREENPLAY GENERATION FRAMEWORK WITH CAUSAL PLOT GRAPHS | ICLR 2025 (International Conference on Learning Representations) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.15655) | - | - | ![citation](https://img.shields.io/badge/citation-0-0A66C2) | multimodal, screenplay |
 | LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models | ArXiv 2025 (arXiv preprint) | 2025-02 | [arXiv](https://arxiv.org/abs/2502.14834) | - | [Code](https://github.com/THU-KEG/LongWriter-V) | - | multimodal, visual-story |
+| Generating Visual Stories with Grounded and Coreferent Characters | TACL 2026 (Transactions of the Association for Computational Linguistics) | 2024-09 | [Published](https://aclanthology.org/2026.tacl-1.21/) | - | - | - | multimodal, visual-story |
 | SEED-Story: Multimodal Long Story Generation with Large Language Model | ArXiv 2024 (arXiv preprint) | 2024-07 | [arXiv](https://arxiv.org/abs/2407.08683) | - | [Code](https://github.com/TencentARC/SEED-Story) | - | multimodal, visual-story |
 | Make-A-Story: Visual Memory Conditioned Consistent Story Generation | CVPR 2023 (Conference on Computer Vision and Pattern Recognition) | 2022-11 | [arXiv](https://arxiv.org/abs/2211.13319) | - | - | - | multimodal, visual-story |
 
@@ -185,6 +188,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Scaling Long-Form Story Generation via Narrative State Tracking | ArXiv 2026 (arXiv preprint) | 2026-09 | [arXiv](https://arxiv.org/abs/2609.35759) | - | [Code](https://github.com/zhennan1/NstAgent) | - | long-context, coherence |
 | Staying In Character: Perspective-Bounded Memory For Book-Based Role-Playing Agents | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.25632) | - | - | - | long-context, role-playing |
 | Not All Claims Are Equally Risky: FACTOR for Adaptive Verification in Factual Long-Form Generation | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.22474) | - | - | - | long-context, factuality |
 | Storyline Trees: Hierarchical Representations for Long-Form Narratives | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.20900) | - | - | - | long-context, narrative-representation |
@@ -252,6 +256,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 | DTO: a Differentiable Training Objective for Effective Counterfactual Story Rewriting | ArXiv 2026 (arXiv preprint) | 2026-05 | [arXiv](https://arxiv.org/abs/2605.24885) | - | - | - | refinement, revision |
 | R2-Write: Reflection and Revision for Open-Ended Writing with Deep Reasoning | ArXiv 2026 (arXiv preprint) | 2026-04 | [arXiv](https://arxiv.org/abs/2604.03004) | - | - | - | refinement, revision |
 | LLM Review: Enhancing Creative Writing via Blind Peer Review Feedback | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.08003) | - | - | - | refinement, revision |
+| Retell, Reward, Repeat: Reinforcement Learning for Narrative Theory-Informed Story Retelling | ArXiv 2026 (arXiv preprint) | 2026-01 | [arXiv](https://arxiv.org/abs/2601.17226) | - | - | - | refinement, revision |
 | All Stories Are One Story: Emotional Arc Guided Procedural Game Level Generation | ArXiv 2025 (arXiv preprint) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.02132) | - | - | - | refinement, revision |
 | SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models | ArXiv 2025 (arXiv preprint) | 2025-06 | [arXiv](https://arxiv.org/abs/2506.04180) | - | - | - | refinement, revision |
 | Finding Flawed Fictions: Evaluating Complex Reasoning in Language Models via Plot Hole Detection | ArXiv 2025 (arXiv preprint) | 2025-04 | [arXiv](https://arxiv.org/abs/2504.11900) | - | - | ![citation](https://img.shields.io/badge/citation-4-0A66C2) | refinement, revision |
@@ -269,6 +274,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Do Video Generators Track the World Across Segments? A Benchmark and Method for World-State Reasoning in Video Continuation | ArXiv 2026 (arXiv preprint) | 2026-09 | [arXiv](https://arxiv.org/abs/2609.03673) | - | [Code](https://github.com/AMAP-ML/StateAgent) | - | benchmark, video-story |
 | Floor Raiser or Ceiling Limiter? Differential Storytelling Outcomes with a Child-Centric GenAI System Across Individual Differences | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.27067) | - | - | - | benchmark, evaluation |
 | Same Lesson, Different Story: Cross-Lingual Reconstruction of Cultural Narratives in Large Language Models | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.24610) | - | - | - | benchmark, evaluation |
 | Do Language Models Pass the Bechdel Test? Auditing Gender Biases in LLM-Generated Screenplays | ArXiv 2026 (arXiv preprint) | 2026-06 | [arXiv](https://arxiv.org/abs/2606.24022) | - | - | - | benchmark, screenplay |
@@ -325,6 +331,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 | EvolvR: Self-Evolving Pairwise Reasoning for Story Evaluation to Enhance Generation | ArXiv 2025 (arXiv preprint) | 2025-08 | [arXiv](https://arxiv.org/abs/2508.06046) | - | - | - | benchmark, evaluation |
 | LitBench: A Benchmark and Dataset for Reliable Evaluation of Creative Writing | ArXiv 2025 (arXiv preprint) | 2025-07 | [arXiv](https://arxiv.org/abs/2507.00769) | - | - | - | benchmark, dataset |
 | WebNovelBench: Placing LLM Novelists on the Web Novel Distribution | EACL Findings 2026 (Findings of EACL) | 2025-05 | [Published](https://aclanthology.org/2026.findings-eacl.94/) | - | [Code](https://github.com/OedonLestrange42/webnovelbench) | - | benchmark, evaluation |
+| ViStoryBench: Comprehensive Benchmark Suite for Story Visualization | CVPR 2026 (Conference on Computer Vision and Pattern Recognition) | 2025-05 | [Published](https://openaccess.thecvf.com/content/CVPR2026/html/Zhuang_ViStoryBench_Comprehensive_Benchmark_Suite_for_Story_Visualization_CVPR_2026_paper.html) | [Project](https://vistorybench.github.io/) | [Code](https://github.com/ViStoryBench/vistorybench) | - | benchmark, visual-story |
 | WritingBench: A Comprehensive Benchmark for Generative Writing | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.05244) | - | - | - | benchmark, evaluation |
 | CoKe: Customizable Fine-Grained Story Evaluation via Chain-of-Keyword Rationalization | ArXiv 2025 (arXiv preprint) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.17136) | - | - | ![citation](https://img.shields.io/badge/citation-0-0A66C2) | benchmark, evaluation |
 | LongEval: A Comprehensive Analysis of Long-Text Generation Through a Plan-based Paradigm | ArXiv 2025 (arXiv preprint) | 2025-02 | [arXiv](https://arxiv.org/abs/2502.19103) | - | [Code](https://github.com/Wusiwei0410/LongEval) | ![citation](https://img.shields.io/badge/citation-4-0A66C2) | benchmark, evaluation |
