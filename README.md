@@ -40,7 +40,7 @@ A curated list of story/novel/script generation research in the LLM era (2022-pr
 | Refinement / Self-Critique / Iterative Editing | 18 |
 | Evaluation / Benchmarks / Metrics | 79 |
 | Datasets / Surveys / Resources | 32 |
-| Open-source Projects (No Paper Required) | 10 |
+| Open-source Projects (No Paper Required) | 11 |
 
 ## Papers and Projects
 
@@ -397,6 +397,7 @@ Note: `Project` stores project/demo links; `Code` stores verified GitHub reposit
 
 | Title | Venue | Date | Paper | Project | Code | Citations | Tags |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Pagekin | GitHub 2026 (Open-source desktop application, v1.5.3) | 2026-11 | - | [Project](https://www.orz.md/en/ai-novel-writer/) | [Code](https://github.com/EthanYoQ/Pagekin) | - | tooling, long-form fiction, open-source |
 | FireRed-OpenStoryline | GitHub 2026 (Open-source repository) | 2026-01 | - | [Project](https://github.com/FireRedTeam/FireRed-OpenStoryline) | [Code](https://github.com/FireRedTeam/FireRed-OpenStoryline) | - | tooling, open-source |
 | ReasoningNCP (Official Repository) | GitHub 2025 (Open-source repository) | 2025-03 | [arXiv](https://arxiv.org/abs/2503.22828) | [Project](https://github.com/Alex-Gurung/ReasoningNCP) | [Code](https://github.com/Alex-Gurung/ReasoningNCP) | - | tooling, open-source |
 | SEED-Story (Official Repository) | GitHub 2024 (Open-source repository) | 2024-07 | [arXiv](https://arxiv.org/abs/2407.08683) | [Project](https://github.com/TencentARC/SEED-Story) | [Code](https://github.com/TencentARC/SEED-Story) | - | tooling, open-source |
